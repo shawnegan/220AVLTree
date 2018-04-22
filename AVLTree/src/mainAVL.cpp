@@ -1,3 +1,9 @@
+/* Names : Shawn Egan, Justin Schnee
+ * TA : Ajith Vemuri
+ * Date : 4/22/18
+ * Lab : 5b (AVL Tree)
+ */
+
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
